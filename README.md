@@ -1,58 +1,76 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AzizSaidov&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Junior%20Developer&descAlignY=60&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=galaxy&color=auto&height=300&section=header&text=AzizSaidov&fontSize=90&animation=fadeIn&fontAlignY=38&desc=🚀%20Python%20Junior%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer;🐍+Python+%7C+FastAPI+%7C+Django;🤖+Building+APIs+%26+Bots;🌌+From+Dushanbe+to+the+Universe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&multiline=false&width=650&lines=🐍+Python+%7C+FastAPI+%7C+Django+%7C+DRF;🗄️+PostgreSQL+%7C+Redis+%7C+Docker;🤖+Telegram+Bots+%7C+REST+APIs;🌌+Building+from+Dushanbe+to+the+stars+✨)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" width="38%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-### 👾 About Me
+## 👨‍💻 About Me
 
 ```python
 class AzizSaidov:
+
+    name      = "Aziz Saidov"
     role      = "Python Junior Developer"
     location  = "🌍 Dushanbe, Tajikistan"
-    focus     = ["Backend", "REST APIs", "Bots", "AI"]
-    learning  = ["Advanced FastAPI", "System Design"]
-    goal      = "Build things that matter 🚀"
-    fun_fact  = "I use AI to code faster 🤖"
+
+    stack = {
+        "backend":   ["FastAPI", "Django", "DRF"],
+        "bots":      ["Aiogram"],
+        "db":        ["PostgreSQL", "Redis", "SQLite"],
+        "devops":    ["Docker", "Nginx", "Gunicorn"],
+        "frontend":  ["HTML", "CSS", "Tailwind"],
+    }
+
+    superpower = "Using AI to ship 10x faster 🤖"
+    currently  = "Leveling up every single day 📈"
+    goal       = "Junior Backend role 🎯"
 ```
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-#### 🐍 Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 🗄️ Databases & Cache
+**Databases & Cache**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🌐 Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ DevOps & Tools
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
@@ -60,72 +78,75 @@ class AzizSaidov:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### 🤖 AI & Productivity
-![Claude AI](https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI_Assisted_Dev-A960FF?style=for-the-badge&logo=sparkles&logoColor=white)
+**AI & Productivity**
+
+![Claude](https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/AI_Dev_Tools-BD93F9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzizSaidov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizSaidov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AzizSaidov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizSaidov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizSaidov&theme=radical&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=F8F8F2&dates=6272A4"/>
 </div>
 
 ---
 
-### 🔥 Streak
+## 🏆 Trophies
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzizSaidov&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AzizSaidov&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 </div>
 
 ---
 
-### 🏆 Trophies
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzizSaidov/AzizSaidov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzizSaidov/AzizSaidov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AzizSaidov/AzizSaidov/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+## 📈 Activity
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizSaidov&theme=tokyonight&no-frame=true&row=1&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzizSaidov&bg_color=0D1117&color=BD93F9&line=FF79C6&point=FFFFFF&area=true&hide_border=true&area_color=44475A"/>
 </div>
 
 ---
 
-### 🌌 Activity Graph
+## 📬 Connect With Me
 
 <div align="center">
 
-[![Aziz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzizSaidov&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&hide_border=true&area_color=2D1B69)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 📬 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-azizsaidov026@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizsaidov026@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-azizsaidov026@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizsaidov026@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@saidovv006-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saidovv006)
 [![GitHub](https://img.shields.io/badge/GitHub-AzizSaidov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizSaidov)
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AzizSaidov&color=A960FF&style=for-the-badge&label=PROFILE+VIEWS)
-
+  <img src="https://komarev.com/ghpvc/?username=AzizSaidov&color=BD93F9&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"/>
 </div>
