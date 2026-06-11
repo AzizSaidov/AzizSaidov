@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:4a0080,100:7b2d8b&height=280&section=header&text=AzizSaidov&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=  🚀%20Python%20Junior%20Developer&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:4a0080,100:7b2d8b&height=280&section=header&text=AzizSaidov&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=🚀%20Python%20Junior%20Developer&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&multiline=false&width=650&lines=🐍+Python+%7C+FastAPI+%7C+Django+%7C+DRF;🗄️+PostgreSQL+%7C+Redis+%7C+Docker;🤖+Telegram+Bots+%7C+REST+APIs;🌌+Building+from+Dushanbe+to+the+stars+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=650&lines=🐍+Python+%7C+FastAPI+%7C+Django+%7C+DRF;🗄️+PostgreSQL+%7C+Redis+%7C+Docker;🤖+Telegram+Bots+%7C+REST+APIs;🌌+Building+from+Dushanbe+to+the+stars+✨)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,7 +82,7 @@ class AzizSaidov:
 
 ![Claude](https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/AI_Dev_Tools-BD93F9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Dev_Tools-BD93F9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -111,17 +111,7 @@ class AzizSaidov:
 
 ---
 
-## 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzizSaidov/AzizSaidov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzizSaidov/AzizSaidov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AzizSaidov/AzizSaidov/output/github-snake-dark.svg" />
-</picture>
-
----
-
-## 📈 Activity
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzizSaidov&bg_color=0D1117&color=BD93F9&line=FF79C6&point=FFFFFF&area=true&hide_border=true&area_color=44475A"/>
@@ -148,5 +138,5 @@ class AzizSaidov:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d8b,50:4a0080,100:0a0a2e&height=120&section=footer"/>
 </div>
