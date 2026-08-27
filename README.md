@@ -40,8 +40,7 @@ REST APIs, real-time services and Telegram bots on **FastAPI** and **Django/DRF*
 ### ⚡ Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django MVT](https://img.shields.io/badge/Django_MVT-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![Django MVT](https://img.shields.io/badge/Django_MVT-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
